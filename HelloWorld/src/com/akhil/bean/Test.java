@@ -8,5 +8,6 @@ public class Test {
 
 	public void hello(){
 		System.out.println(" Spring Demo ");
+		System.out.println("added for git hub commit...");
 	}
 }
